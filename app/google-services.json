@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "505407456885",
+    "firebase_url": "https://swordpedia-b5afd-default-rtdb.firebaseio.com",
+    "project_id": "swordpedia-b5afd",
+    "storage_bucket": "swordpedia-b5afd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:505407456885:android:b4b1e4c838f903d0b59a3c",
+        "android_client_info": {
+          "package_name": "com.lastmans.swordpedia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAi36rZ9_bFX-KebQhZjg8MjnYHO4Y-uvY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
